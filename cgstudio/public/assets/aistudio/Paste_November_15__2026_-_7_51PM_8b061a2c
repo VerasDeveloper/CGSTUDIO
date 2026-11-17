@@ -1,0 +1,1015 @@
+Você é um diretor de arte premiado (nível Awwwards), especialista em branding de luxo e desenvolvedor front-end sênior.
+
+Crie em UMA ÚNICA passada um site profissional para o CG STUDIO BY CÁSSIA GONÇALVES, cuja PRIORIDADE Nº 1 é a BELEZA VISUAL, seguida pela experiência do usuário e conversão de visitantes em clientes.
+
+Sem perguntas, sem plano, sem placeholders visuais genéricos: implemente diretamente o resultado final.
+
+A REGRA DE OURO: MENOS É MAIS.
+
+Sites sofisticados possuem pouco texto visível, fotografias impactantes, tipografia elegante e muito espaço em branco.
+
+Entretanto, TODAS as informações comerciais fornecidas neste briefing devem ser incorporadas ao site de maneira inteligente, utilizando componentes expansíveis, abas, modais e páginas de detalhes quando necessário.
+
+Não sacrifique a elegância para exibir informações. Organize o conteúdo com inteligência.
+
+═══════════════════════════════════════════════
+🎯 O PROJETO
+═══════════════════════════════════════════════
+
+Nome comercial: CG STUDIO
+Marca completa: CG Studio by Cássia Gonçalves
+Profissional responsável: Cássia Gonçalves
+
+Nicho: Maquiadora profissional, penteados e produção de beleza para noivas, debutantes e eventos sociais.
+
+Especialidades:
+- Maquiagem profissional
+- Penteados
+- Produção de noivas
+- Produção de debutantes
+- Maquiagem para madrinhas
+- Maquiagem para mães dos noivos
+- Produção para eventos sociais
+- Consultoria de visagismo
+- Consultoria de colorimetria
+- Produção para ensaios fotográficos
+
+Slogan principal:
+"Sua beleza. Sua essência. Seu momento."
+
+Objetivo principal:
+Gerar leads qualificados, apresentar o trabalho da profissional, valorizar seus serviços e converter visitantes em agendamentos.
+
+CTA principal:
+"Agendar meu momento"
+
+CTA secundário:
+"Conhecer os serviços"
+
+Outros CTAs:
+- Solicitar orçamento
+- Conhecer os pacotes
+- Falar com Cássia
+- Reservar minha data
+- Ver portfólio
+
+Público-alvo:
+Mulheres que procuram serviços profissionais de maquiagem e penteado para ocasiões especiais, principalmente noivas e debutantes.
+
+Posicionamento:
+Premium, sofisticado, acolhedor, feminino, personalizado e exclusivo.
+
+O site deve transmitir a sensação de estar contratando uma experiência especial, não apenas um serviço de maquiagem.
+
+═══════════════════════════════════════════════
+🎨 IDENTIDADE VISUAL — MARROM E BEGE
+═══════════════════════════════════════════════
+
+A identidade visual deve ser completamente construída sobre tons de MARROM e BEGE.
+
+PALETA OBRIGATÓRIA:
+
+Cor principal:
+Marrom Espresso — #4A3026
+
+Cor secundária:
+Bege Champagne — #E8D8C5
+
+Cor de apoio:
+Marrom Caramelo — #A77B5A
+
+Cor de fundo:
+Marfim Quente — #F7F1E9
+
+Cor para superfícies:
+Bege Areia — #D9C4AE
+
+Cor para textos:
+Marrom Profundo — #2C1D17
+
+REGRAS:
+
+- Marrom e bege devem dominar toda a identidade.
+- Não utilizar laranja, dourado metálico, rosa vibrante ou cores chamativas.
+- Priorizar fundos claros e sofisticados, com seções pontuais em marrom escuro.
+- Botões principais em marrom espresso.
+- Textos em marrom profundo.
+- Detalhes em bege e caramelo.
+- Contraste suficiente para acessibilidade.
+- Não utilizar gradientes exagerados.
+- Não utilizar efeitos neon.
+- Não utilizar glitter.
+- Não utilizar sombras pesadas.
+
+O resultado deve lembrar uma marca internacional de beleza de luxo.
+
+REFERÊNCIAS ESTÉTICAS:
+- Editorial de moda
+- Luxury beauty
+- Quiet luxury
+- Bridal beauty
+- Minimalismo sofisticado
+- Fotografia editorial
+- Design de revistas de moda
+
+TIPOGRAFIA:
+
+Títulos:
+Cormorant Garamond
+
+Textos:
+Lato
+
+Utilizar títulos enormes, elegantes e expressivos.
+
+Os títulos devem possuir personalidade editorial, com contraste entre palavras grandes e pequenas.
+
+Utilizar clamp() para dimensionamento responsivo.
+
+═══════════════════════════════════════════════
+📸 FOTOGRAFIAS — PRIORIDADE ABSOLUTA
+═══════════════════════════════════════════════
+
+As fotografias são fundamentais para o resultado.
+
+O site deve parecer um portfólio profissional de uma maquiadora de alto padrão.
+
+PRIORIDADE DE IMAGENS:
+
+1. Fotografias reais da Cássia Gonçalves.
+2. Fotografias reais dos trabalhos realizados pelo CG Studio.
+3. Fotografias de noivas, debutantes e clientes fornecidas pela profissional.
+4. Imagens editoriais de maquiagem profissional apenas quando necessário.
+
+Os PDFs de apresentação da profissional possuem fotografias de referência, mas não devem ser tratados como uma biblioteca de imagens automaticamente disponível no projeto.
+
+Se imagens originais estiverem disponíveis nos arquivos do projeto, utilizá-las.
+
+Caso contrário, utilizar fotografias de referência adequadas, sem apresentá-las falsamente como trabalhos realizados pelo CG Studio.
+
+REGRAS OBRIGATÓRIAS:
+
+- Todas as imagens devem estar relacionadas à maquiagem profissional, penteados ou preparação de clientes.
+- Priorizar closes de maquiagem, pele, olhos e cabelos.
+- Fotografias de noivas com maquiagem sofisticada.
+- Fotografias de debutantes com produções elegantes.
+- Bastidores de preparação.
+- Detalhes de pincéis e produtos de maquiagem.
+- Fotografias com iluminação natural e tons quentes.
+- Pessoas com aparência diversa e contexto brasileiro.
+- Não utilizar fotografias de massagens, unhas, barbearias ou outros serviços não oferecidos.
+- Não repetir imagens.
+- Não utilizar imagens quebradas.
+- Não utilizar imagens com marcas d'água.
+- Evitar fotografias genéricas de bancos de imagens.
+
+Quando necessário, buscar imagens reais no Unsplash com termos específicos:
+
+- luxury bridal makeup
+- professional makeup artist
+- elegant bride makeup
+- natural glam makeup
+- bridal hairstyling
+- quinceanera makeup
+- makeup artist applying makeup
+- bridal beauty editorial
+
+As fotografias devem ser grandes, impactantes e integradas ao layout.
+
+═══════════════════════════════════════════════
+✨ DIREÇÃO DE ARTE
+═══════════════════════════════════════════════
+
+1. HERO IMPECÁVEL
+
+A primeira tela deve ser extraordinária.
+
+Utilizar:
+- Navbar minimalista.
+- Nome CG STUDIO.
+- Headline enorme.
+- Uma única frase de apoio.
+- Uma fotografia editorial deslumbrante.
+- CTA principal.
+
+Headline:
+"Sua beleza. Sua essência. Seu momento."
+
+Subheadline:
+"Maquiagem e penteados que revelam o melhor de você em momentos inesquecíveis."
+
+CTA:
+"Agendar meu momento"
+
+O hero deve ocupar aproximadamente a altura da tela, permitindo visualizar discretamente o início da próxima seção.
+
+2. TIPOGRAFIA COMO PROTAGONISTA
+
+Títulos grandes, expressivos e sofisticados.
+
+Não utilizar fontes genéricas como Inter ou Poppins.
+
+3. ESPAÇAMENTO GENEROSO
+
+Paddings verticais entre 6rem e 8rem no desktop.
+
+Evitar excesso de elementos.
+
+4. RITMO VISUAL
+
+Alternar composições:
+- Imagem à direita e texto à esquerda.
+- Imagem à esquerda e texto à direita.
+- Fotografias em largura total.
+- Layout editorial assimétrico.
+- Seções centralizadas.
+
+Evitar a repetição de três cards idênticos em todas as seções.
+
+5. MICRO-INTERAÇÕES
+
+Utilizar Framer Motion.
+
+- Fade-in suave.
+- Scroll reveal.
+- Animações discretas.
+- Hover elegante nos botões.
+- Transições suaves.
+- Animações uma única vez quando apropriado.
+- Respeitar prefers-reduced-motion.
+
+Não utilizar efeitos exagerados.
+
+═══════════════════════════════════════════════
+👩 SOBRE CÁSSIA GONÇALVES
+═══════════════════════════════════════════════
+
+Utilizar as informações biográficas abaixo para construir uma apresentação sofisticada.
+
+INFORMAÇÕES REAIS:
+
+Cássia Gonçalves nasceu no Rio de Janeiro, em 3 de maio.
+
+Apaixonada pela vida e por pessoas, encontrou na beleza sua verdadeira vocação.
+
+Aos 18 anos, decidiu trocar a Arquitetura pela área da Beleza.
+
+Foi a mais jovem de sua turma a se formar como cabeleireira.
+
+Em 2012, mudou-se para a Península de Búzios, onde consolidou sua paixão pela profissão.
+
+Desde então, dedica sua carreira à valorização da beleza individual de cada mulher.
+
+Sua abordagem combina colorimetria, visagismo, estilo pessoal e personalidade.
+
+Ao longo de sua trajetória, participou de momentos especiais de noivas, debutantes, madrinhas, mães e outras clientes.
+
+O material institucional destinado a noivas menciona mais de 50 noivas atendidas.
+
+Atualmente, lidera duas equipes de profissionais no estado do Rio de Janeiro.
+
+Uma equipe atende a Região dos Lagos e outra atende o Rio de Janeiro e regiões adjacentes.
+
+A equipe CG Studio busca atualização constante, acompanha tendências e valoriza o atendimento humanizado.
+
+TEXTO PRINCIPAL SUGERIDO:
+
+"Acredito que a verdadeira beleza está na essência de cada mulher. Meu trabalho é revelar essa beleza com sensibilidade, técnica e atenção aos detalhes, transformando momentos especiais em lembranças inesquecíveis."
+
+TEXTO COMPLEMENTAR:
+
+"Desde 2012, construo uma trajetória dedicada à beleza, unindo maquiagem, penteados, colorimetria e visagismo para criar produções que respeitam a personalidade e o estilo de cada cliente."
+
+Não apresentar como fato qualquer formação, certificação ou prêmio não mencionado neste briefing.
+
+═══════════════════════════════════════════════
+💄 SERVIÇOS OFERECIDOS
+═══════════════════════════════════════════════
+
+Criar uma seção elegante apresentando os serviços principais.
+
+SERVIÇO 1 — NOIVAS
+
+Título:
+"Para o seu grande sim."
+
+Descrição:
+"Uma produção pensada para valorizar sua essência e acompanhar cada instante do seu casamento."
+
+Inclui possibilidades de:
+- Maquiagem profissional.
+- Penteado.
+- Prévia de maquiagem e penteado.
+- Consultoria personalizada.
+- Preparação da pele.
+- Acompanhamento na preparação, conforme pacote.
+- Auxílio com acessórios e vestido.
+
+CTA:
+"Conhecer pacotes para noivas"
+
+SERVIÇO 2 — DEBUTANTES
+
+Título:
+"Um momento para brilhar."
+
+Descrição:
+"Produções exclusivas para celebrar seus 15 anos com personalidade, beleza e elegância."
+
+Inclui possibilidades de:
+- Maquiagem profissional.
+- Penteado.
+- Prévia de produção.
+- Consultoria de estilo.
+- Preparação da pele.
+- Produção para ensaios fotográficos, conforme pacote.
+
+CTA:
+"Conhecer pacotes para debutantes"
+
+SERVIÇO 3 — EVENTOS SOCIAIS
+
+Título:
+"Especial em cada detalhe."
+
+Descrição:
+"Maquiagem e penteados para destacar sua beleza em celebrações e ocasiões especiais."
+
+Públicos:
+- Madrinhas.
+- Mães dos noivos.
+- Convidadas.
+- Formandas.
+- Clientes de eventos sociais.
+
+Serviço social disponível:
+Maquiagem + penteado — R$ 420.
+
+CTA:
+"Agendar produção"
+
+SERVIÇO 4 — BELEZA PERSONALIZADA
+
+Título:
+"Beleza que respeita sua essência."
+
+Descrição:
+"Uma abordagem que considera suas características, seu estilo e sua personalidade."
+
+Destaques:
+- Colorimetria.
+- Visagismo.
+- Estilo pessoal.
+- Consultoria de beleza.
+
+Esses recursos fazem parte de determinados pacotes e não devem ser apresentados como serviços avulsos com preço próprio sem confirmação.
+
+═══════════════════════════════════════════════
+👰 PACOTES PARA NOIVAS
+═══════════════════════════════════════════════
+
+Criar uma seção exclusiva para pacotes de noivas.
+
+Utilizar uma apresentação premium, com cards editoriais ou acordeões expansíveis.
+
+Evitar excesso de texto na visualização inicial.
+
+Mostrar inicialmente:
+- Nome do pacote.
+- Valor.
+- Breve descrição.
+- Principais benefícios.
+- Botão para visualizar detalhes.
+- Botão para solicitar orçamento.
+
+PACOTE PREMIUM — R$ 2.500
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+- Consultoria de colorimetria.
+- Consultoria de visagismo.
+- Avaliação de estilo pessoal.
+- Avaliação de personalidade.
+
+Prévia:
+- Ajuda na escolha da maquiagem.
+- Ajuda na escolha do penteado.
+
+No dia do casamento:
+- Cronograma personalizado.
+- Esfoliação facial.
+- Hidratação facial.
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com véu.
+- Auxílio com vestido.
+
+Benefícios adicionais:
+- Robe para fotografias do making of.
+- Maquiagem e cabelo para pré-wedding.
+
+PACOTE DELUXE — R$ 2.000
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+- Consultoria de estilo pessoal.
+- Consultoria de personalidade.
+
+Prévia:
+- Escolha da maquiagem.
+- Escolha do penteado.
+
+No casamento:
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com véu.
+- Auxílio com vestido.
+
+Benefício adicional:
+- Robe para fotografias do making of.
+
+PACOTE SOFT — R$ 1.500
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+
+Prévia:
+- Ajuda na escolha da maquiagem.
+- Ajuda na escolha do penteado.
+
+No casamento:
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com véu.
+- Auxílio com vestido.
+
+Benefício adicional:
+- Maquiagem para pré-wedding ou para uma pessoa especial.
+
+IMPORTANTE:
+
+Não misturar os valores dos pacotes de noivas com os pacotes de debutantes.
+
+Não inventar benefícios adicionais.
+
+Não prometer acompanhamento durante toda a cerimônia ou festa, pois isso não está especificado.
+
+═══════════════════════════════════════════════
+👑 PACOTES PARA DEBUTANTES E EVENTOS
+═══════════════════════════════════════════════
+
+Criar uma apresentação independente dos pacotes de noivas.
+
+PACOTE PREMIUM — R$ 1.900
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+- Consultoria de colorimetria.
+- Consultoria de visagismo.
+- Estilo pessoal.
+- Personalidade.
+
+Prévia:
+- Escolha da maquiagem.
+- Escolha do penteado.
+
+No evento:
+- Cronograma personalizado.
+- Esfoliação facial.
+- Hidratação facial.
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com vestido.
+
+Benefícios adicionais:
+- Robe para fotografias do making of.
+- Maquiagem e cabelo para fotos antes do evento ou para uma pessoa especial.
+
+PACOTE DELUXE — R$ 1.300
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+- Consultoria de estilo pessoal.
+- Consultoria de personalidade.
+
+Prévia:
+- Escolha da maquiagem.
+- Escolha do penteado.
+
+No evento:
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com vestido.
+
+Benefício adicional:
+- Robe para fotografias do making of.
+
+PACOTE SOFT — R$ 1.000
+
+Reunião online ou presencial:
+- Alinhamento de expectativas.
+
+Prévia:
+- Escolha da maquiagem.
+- Escolha do penteado.
+
+No evento:
+- Maquiagem escolhida na prévia.
+- Penteado escolhido na prévia.
+- Auxílio com acessórios.
+- Auxílio com vestido.
+
+Benefício adicional:
+- Maquiagem para fotos de pré-aniversário ou para uma pessoa especial.
+
+Os documentos também mencionam auxílio com véu no pacote Soft. Preservar essa informação nos detalhes, sem sugerir que seja um benefício obrigatório para toda debutante.
+
+═══════════════════════════════════════════════
+💎 EXPERIÊNCIA CG STUDIO
+═══════════════════════════════════════════════
+
+Criar uma seção visualmente sofisticada apresentando os diferenciais da profissional.
+
+Não utilizar seis cards genéricos.
+
+Preferir um layout editorial com fotografias e textos curtos.
+
+DIFERENCIAIS:
+
+1. Atendimento personalizado.
+
+Cada produção considera as características, preferências e expectativas da cliente.
+
+2. Colorimetria e visagismo.
+
+Técnicas utilizadas para valorizar a beleza individual.
+
+3. Planejamento.
+
+Reuniões, prévias e cronogramas personalizados conforme o pacote contratado.
+
+4. Atendimento humanizado.
+
+Atenção, acolhimento e tranquilidade durante momentos importantes.
+
+5. Equipe profissional.
+
+Duas equipes que atendem diferentes regiões do Rio de Janeiro.
+
+6. Atualização constante.
+
+Profissionais que acompanham tendências e buscam aperfeiçoamento.
+
+Headline sugerida:
+"Mais que maquiagem. Uma experiência."
+
+═══════════════════════════════════════════════
+📷 PORTFÓLIO
+═══════════════════════════════════════════════
+
+Criar uma galeria editorial elegante e impactante.
+
+Categorias:
+
+- Noivas
+- Debutantes
+- Eventos sociais
+- Bastidores
+
+A galeria deve valorizar:
+- Fotografias grandes.
+- Maquiagens naturais e sofisticadas.
+- Penteados elegantes.
+- Expressões reais.
+- Detalhes de produção.
+- Momentos de preparação.
+
+Utilizar um layout assimétrico ou masonry.
+
+Evitar miniaturas excessivamente pequenas.
+
+Ao clicar em uma fotografia, abrir uma visualização ampliada com navegação acessível.
+
+Não inventar nomes de clientes ou eventos.
+
+Não apresentar fotografias de banco de imagens como trabalhos reais do CG Studio.
+
+Se fotografias reais não estiverem disponíveis, estruturar a galeria para receber os arquivos posteriormente, sem inventar depoimentos ou resultados.
+
+═══════════════════════════════════════════════
+⭐ DEPOIMENTOS E PROVA SOCIAL
+═══════════════════════════════════════════════
+
+Os materiais institucionais do CG Studio apresentam avaliações de cinco estrelas no Google.
+
+Os depoimentos destacam:
+- Profissionalismo.
+- Atendimento acolhedor.
+- Pontualidade.
+- Agilidade.
+- Qualidade técnica.
+- Atenção aos detalhes.
+- Capacidade de tranquilizar noivas.
+- Satisfação com maquiagem e penteado.
+- Segurança durante a preparação.
+
+Criar uma seção chamada:
+
+"O carinho de quem viveu."
+
+Utilizar depoimentos reais somente quando o texto original estiver disponível.
+
+Não inventar frases atribuídas a clientes.
+
+Não inventar quantidade de avaliações.
+
+Não afirmar que a nota atual do Google é cinco estrelas sem dados atualizados.
+
+Se houver capturas reais dos depoimentos disponíveis, utilizá-las de maneira elegante.
+
+═══════════════════════════════════════════════
+📍 REGIÕES ATENDIDAS
+═══════════════════════════════════════════════
+
+O CG Studio possui duas equipes de atendimento.
+
+EQUIPE REGIÃO DOS LAGOS:
+
+- Armação dos Búzios.
+- Cabo Frio.
+- Arraial do Cabo.
+- Araruama.
+- São Pedro da Aldeia.
+- Iguaba.
+- Saquarema.
+- Maricá.
+
+EQUIPE RIO DE JANEIRO:
+
+- Rio de Janeiro.
+- Regiões adjacentes.
+
+Criar uma seção discreta informando a abrangência do atendimento.
+
+Headline sugerida:
+"Beleza onde sua história acontece."
+
+Não inventar taxas de deslocamento.
+
+Não afirmar que o deslocamento está incluído nos preços.
+
+═══════════════════════════════════════════════
+📅 AGENDAMENTO ONLINE
+═══════════════════════════════════════════════
+
+Implementar uma experiência elegante e funcional de solicitação de agendamento.
+
+O agendamento deve ser simples, rápido e intuitivo.
+
+ETAPA 1 — ESCOLHER O ATENDIMENTO
+
+Opções:
+- Noiva
+- Debutante
+- Evento social
+- Outro atendimento
+
+ETAPA 2 — ESCOLHER O SERVIÇO OU PACOTE
+
+Exibir opções conforme a categoria escolhida.
+
+Para noivas:
+- Premium — R$ 2.500
+- Deluxe — R$ 2.000
+- Soft — R$ 1.500
+
+Para debutantes:
+- Premium — R$ 1.900
+- Deluxe — R$ 1.300
+- Soft — R$ 1.000
+
+Para eventos sociais:
+- Maquiagem e penteado — R$ 420
+
+Para outros atendimentos:
+- Solicitar orçamento personalizado.
+
+ETAPA 3 — INFORMAÇÕES DO EVENTO
+
+Campos:
+- Nome completo.
+- WhatsApp.
+- Data do evento.
+- Horário desejado.
+- Cidade do atendimento.
+- Local do evento, opcional.
+- Observações adicionais.
+
+ETAPA 4 — CONFIRMAÇÃO
+
+Apresentar resumo:
+- Nome.
+- Categoria.
+- Serviço escolhido.
+- Data.
+- Horário.
+- Cidade.
+- Valor informado, quando aplicável.
+
+BOTÃO:
+"Solicitar agendamento pelo WhatsApp"
+
+Ao clicar, abrir o WhatsApp com uma mensagem estruturada contendo todas as informações.
+
+IMPORTANTE:
+
+Sem integração com banco de dados ou calendário real, o sistema deve funcionar como SOLICITAÇÃO DE AGENDAMENTO, e não como reserva confirmada.
+
+Não apresentar horários como disponíveis sem integração real.
+
+Não confirmar automaticamente um agendamento.
+
+Não inventar disponibilidade.
+
+A confirmação final deve ser realizada pela equipe do CG Studio.
+
+Se houver backend ou calendário real disponível, estruturar o sistema para permitir evolução futura.
+
+═══════════════════════════════════════════════
+📞 CONTATO
+═══════════════════════════════════════════════
+
+Nome:
+CG Studio by Cássia Gonçalves
+
+WhatsApp:
+(22) 99905-0879
+
+Link:
+https://wa.me/5522999050879
+
+Instagram:
+https://www.instagram.com/cassiabeauty_/
+
+Endereço fornecido para o projeto:
+R. Justiniano de Souza, 114 - 119, Armação dos Búzios - RJ, 28950-000, Brasil
+
+ATENÇÃO:
+O material institucional apresenta "Rua Justiniano de Souza, 8", enquanto o briefing do projeto apresenta "114 - 119". Esses dados são divergentes.
+
+Não apresentar os dois endereços como se fossem iguais.
+
+Manter o endereço configurável e solicitar validação antes da publicação definitiva. Não inventar um endereço intermediário.
+
+Horário de funcionamento:
+Não informado.
+
+Não inventar horários.
+
+CTA principal:
+"Falar com Cássia"
+
+CTA secundário:
+"Agendar meu momento"
+
+MENSAGEM PADRÃO DO WHATSAPP:
+
+"Olá, Cássia! Conheci o CG Studio pelo site e gostaria de saber mais sobre os serviços e a disponibilidade para um atendimento."
+
+O botão deve utilizar wa.me com número sanitizado e mensagem codificada corretamente.
+
+Abrir em nova aba com segurança.
+
+═══════════════════════════════════════════════
+🧱 ESTRUTURA DO SITE
+═══════════════════════════════════════════════
+
+Criar uma landing page premium com NO MÁXIMO 6 SEÇÕES PRINCIPAIS, além da navbar e do footer.
+
+ESTRUTURA:
+
+1. HERO
+- Headline.
+- Fotografia impactante.
+- CTA principal.
+
+2. SERVIÇOS
+- Noivas.
+- Debutantes.
+- Eventos sociais.
+- Beleza personalizada.
+
+3. SOBRE CÁSSIA
+- História.
+- Experiência.
+- Diferenciais.
+- Fotografia profissional.
+
+4. PACOTES E EXPERIÊNCIA
+- Alternância entre Noivas e Debutantes.
+- Pacotes Premium, Deluxe e Soft.
+- Valores.
+- Benefícios.
+- Detalhes expansíveis.
+- Solicitação de orçamento.
+
+5. PORTFÓLIO E DEPOIMENTOS
+- Galeria de trabalhos.
+- Bastidores.
+- Avaliações reais.
+- Prova social.
+
+6. CONTATO E AGENDAMENTO
+- Formulário de solicitação.
+- WhatsApp.
+- Instagram.
+- Regiões atendidas.
+- Endereço validado, quando disponível.
+
+FOOTER:
+- CG Studio.
+- By Cássia Gonçalves.
+- Links de navegação.
+- WhatsApp.
+- Instagram.
+- Informações de atendimento.
+- Direitos reservados.
+
+Não criar seções adicionais desnecessárias.
+
+As informações detalhadas devem ser distribuídas por abas, acordeões, modais e componentes elegantes dentro das seis seções.
+
+═══════════════════════════════════════════════
+🔍 SEO AVANÇADO
+═══════════════════════════════════════════════
+
+Implementar SEO otimizado para buscas locais.
+
+PALAVRAS-CHAVE:
+
+- Maquiadora em Búzios.
+- Maquiadora profissional em Búzios.
+- Maquiagem para noivas em Búzios.
+- Maquiadora para casamento em Búzios.
+- Maquiagem para debutantes.
+- Maquiagem para 15 anos.
+- Maquiagem e penteado em Cabo Frio.
+- Maquiadora na Região dos Lagos.
+- Maquiagem para madrinhas.
+- Penteado para noivas.
+- CG Studio Cássia Gonçalves.
+
+META TITLE:
+CG Studio | Maquiagem e Penteados em Búzios
+
+META DESCRIPTION:
+Maquiagem e penteados para noivas, debutantes e eventos especiais. Conheça o CG Studio by Cássia Gonçalves e solicite seu agendamento.
+
+REQUISITOS:
+- Apenas um H1.
+- Hierarquia correta de headings.
+- Meta description.
+- Open Graph.
+- Twitter Cards.
+- URLs semânticas.
+- Alt text descritivo.
+- Imagens otimizadas.
+- Lazy loading.
+- Sitemap quando aplicável.
+- Robots.txt quando aplicável.
+- Dados estruturados Schema.org para serviços de beleza, usando apenas informações confirmadas.
+- SEO local para Búzios e Região dos Lagos.
+- Navegação acessível.
+- Excelente performance.
+
+Não inventar avaliações, horários ou coordenadas nos dados estruturados.
+
+═══════════════════════════════════════════════
+⚡ PERFORMANCE E RESPONSIVIDADE
+═══════════════════════════════════════════════
+
+O site deve funcionar perfeitamente em:
+
+- 360px.
+- 390px.
+- 430px.
+- 768px.
+- 1024px.
+- 1440px.
+- Monitores maiores.
+
+REGRAS:
+- Mobile-first.
+- Sem rolagem horizontal.
+- Sem textos cortados.
+- Sem sobreposição.
+- Sem imagens deformadas.
+- Menu mobile funcional.
+- Botões com áreas de toque adequadas.
+- Layout fluido.
+- Imagens responsivas.
+- Carregamento otimizado.
+- Evitar bibliotecas desnecessárias.
+- Utilizar componentes reutilizáveis.
+- Utilizar tokens semânticos HSL no index.css.
+- Não espalhar cores hardcoded pelos componentes.
+- Animações suaves com Framer Motion.
+- Respeitar prefers-reduced-motion.
+- Otimizar Core Web Vitals.
+- Utilizar carregamento prioritário para a imagem principal.
+- Evitar layout shift.
+- Implementar acessibilidade por teclado.
+- Respeitar contraste e legibilidade.
+
+═══════════════════════════════════════════════
+🔒 REGRAS INEGOCIÁVEIS
+═══════════════════════════════════════════════
+
+1. A prioridade absoluta é a beleza visual.
+
+2. O site deve parecer uma marca premium de maquiagem profissional, não um salão de beleza genérico.
+
+3. Marrom e bege devem dominar a identidade.
+
+4. Não utilizar laranja ou dourado como cores principais.
+
+5. Não utilizar templates genéricos.
+
+6. Não criar seções excessivamente carregadas.
+
+7. Não repetir a mesma composição visual em todas as seções.
+
+8. Não inventar informações sobre a profissional.
+
+9. Não inventar serviços ou preços.
+
+10. Não misturar os pacotes de noivas e debutantes.
+
+11. Não apresentar fotografias genéricas como trabalhos reais da profissional.
+
+12. Todos os botões devem funcionar.
+
+13. Não utilizar links "#" vazios.
+
+14. O formulário de agendamento deve funcionar via WhatsApp, mesmo sem backend.
+
+15. Não afirmar que um agendamento foi confirmado sem confirmação real.
+
+16. O site deve transmitir exclusividade, confiança, delicadeza e sofisticação.
+
+17. Todas as informações fornecidas devem estar disponíveis no site, mas nem todas precisam aparecer simultaneamente.
+
+18. Priorizar experiência mobile.
+
+19. O resultado deve parecer um projeto de alto padrão, desenvolvido sob medida para o CG Studio.
+
+20. Não entregar apenas um protótipo estático. Implementar as funcionalidades solicitadas.
+
+═══════════════════════════════════════════════
+🏆 RESULTADO ESPERADO
+═══════════════════════════════════════════════
+
+Entregar um site completo, funcional, responsivo e visualmente extraordinário.
+
+O visitante deve sentir que está conhecendo uma profissional experiente, sofisticada e dedicada à beleza individual de cada cliente.
+
+A experiência deve ser elegante desde o primeiro segundo.
+
+O site precisa:
+
+- Encantar visualmente.
+- Apresentar a Cássia Gonçalves.
+- Demonstrar profissionalismo.
+- Valorizar seus trabalhos.
+- Explicar os serviços.
+- Apresentar os pacotes.
+- Gerar confiança.
+- Facilitar o contato.
+- Converter visitantes em solicitações de agendamento.
+
+A sensação final deve ser a de um estúdio de beleza exclusivo.
+
+ANTES DE FINALIZAR:
+
+Revise o site inteiro.
+
+Se alguma seção parecer genérica, redesenhe.
+
+Se houver excesso de texto, reorganize.
+
+Se alguma fotografia não combinar com o nicho, substitua.
+
+Se algum botão não funcionar, corrija.
+
+Se houver problemas no mobile, resolva.
+
+Se os pacotes estiverem misturados, reorganize.
+
+Se a experiência visual não estiver no nível de um projeto premium, refine até alcançar esse padrão.
+
+Implemente diretamente o resultado final.

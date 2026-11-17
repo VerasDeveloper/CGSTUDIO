@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+:root {
+  /* Palette: Marrom & Bege Luxury Identity (HSL Semantic Tokens) */
+  --cg-ivory: 33 42% 88%;       /* #ECE0D0 Bege Linho Quente (fundo principal evidente) */
+  --cg-champagne: 32 42% 82%;   /* #E4D2BD Bege Champagne */
+  --cg-sand: 30 34% 72%;        /* #CEB69E Bege Areia */
+  --cg-caramel: 26 30% 48%;     /* #A07454 Marrom Caramelo */
+  --cg-espresso: 17 32% 22%;    /* #4A3026 Marrom Espresso */
+  --cg-deep: 17 31% 13%;        /* #2C1D17 Marrom Profundo */
+  --cg-white-soft: 34 44% 91%;  /* #F2E8DB Bege Claro Suave */
+}
+
+@theme {
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Lato", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --color-ivory: hsl(var(--cg-ivory));
+  --color-champagne: hsl(var(--cg-champagne));
+  --color-sand: hsl(var(--cg-sand));
+  --color-caramel: hsl(var(--cg-caramel));
+  --color-espresso: hsl(var(--cg-espresso));
+  --color-deep: hsl(var(--cg-deep));
+  --color-soft: hsl(var(--cg-white-soft));
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: hsl(var(--cg-ivory));
+    color: hsl(var(--cg-deep));
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+  }
+
+  body {
+    background-color: hsl(var(--cg-ivory));
+    color: hsl(var(--cg-deep));
+    overflow-x: clip;
+    line-height: 1.65;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  ::selection {
+    background-color: hsl(var(--cg-espresso));
+    color: hsl(var(--cg-ivory));
+  }
+
+  :focus-visible {
+    outline: 2px solid hsl(var(--cg-caramel));
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

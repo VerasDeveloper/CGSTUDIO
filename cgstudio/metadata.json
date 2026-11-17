@@ -1,0 +1,8 @@
+{
+  "name": "CG Studio by Cássia Gonçalves",
+  "description": "Maquiagem e penteados para noivas, debutantes e eventos especiais. Conheça o CG Studio by Cássia Gonçalves em Búzios e Região dos Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
